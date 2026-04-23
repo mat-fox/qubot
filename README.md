@@ -1,2 +1,2 @@
-# qubot
-Qubot modular lab automation platform
+# Qubot
+Documentation for the Qubot modular lab automation platform
